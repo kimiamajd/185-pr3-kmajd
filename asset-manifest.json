@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/185-pr3-kmajd/static/css/main.5386f3ca.chunk.css",
+    "main.js": "/185-pr3-kmajd/static/js/main.84391a47.chunk.js",
+    "main.js.map": "/185-pr3-kmajd/static/js/main.84391a47.chunk.js.map",
+    "runtime-main.js": "/185-pr3-kmajd/static/js/runtime-main.631e0c55.js",
+    "runtime-main.js.map": "/185-pr3-kmajd/static/js/runtime-main.631e0c55.js.map",
+    "static/js/2.59c2ca7b.chunk.js": "/185-pr3-kmajd/static/js/2.59c2ca7b.chunk.js",
+    "static/js/2.59c2ca7b.chunk.js.map": "/185-pr3-kmajd/static/js/2.59c2ca7b.chunk.js.map",
+    "static/js/3.20a8d904.chunk.js": "/185-pr3-kmajd/static/js/3.20a8d904.chunk.js",
+    "static/js/3.20a8d904.chunk.js.map": "/185-pr3-kmajd/static/js/3.20a8d904.chunk.js.map",
+    "index.html": "/185-pr3-kmajd/index.html",
+    "static/css/main.5386f3ca.chunk.css.map": "/185-pr3-kmajd/static/css/main.5386f3ca.chunk.css.map",
+    "static/js/2.59c2ca7b.chunk.js.LICENSE.txt": "/185-pr3-kmajd/static/js/2.59c2ca7b.chunk.js.LICENSE.txt",
+    "static/media/hp1.bf484953.jpg": "/185-pr3-kmajd/static/media/hp1.bf484953.jpg",
+    "static/media/hp20.c7a96548.jpeg": "/185-pr3-kmajd/static/media/hp20.c7a96548.jpeg",
+    "static/media/hp21.0532545c.jpg": "/185-pr3-kmajd/static/media/hp21.0532545c.jpg",
+    "static/media/hp22.c29aeac2.jpg": "/185-pr3-kmajd/static/media/hp22.c29aeac2.jpg",
+    "static/media/hp23.6e9a1b3d.webp": "/185-pr3-kmajd/static/media/hp23.6e9a1b3d.webp",
+    "static/media/hp24.e7ccf3e7.jpg": "/185-pr3-kmajd/static/media/hp24.e7ccf3e7.jpg",
+    "static/media/hp25.360e34a2.jpg": "/185-pr3-kmajd/static/media/hp25.360e34a2.jpg",
+    "static/media/hp26.6d5f98a2.jpg": "/185-pr3-kmajd/static/media/hp26.6d5f98a2.jpg",
+    "static/media/hp27.dca53c54.png": "/185-pr3-kmajd/static/media/hp27.dca53c54.png",
+    "static/media/hp28.fb01b388.jpeg": "/185-pr3-kmajd/static/media/hp28.fb01b388.jpeg",
+    "static/media/hp29.958916bd.jpg": "/185-pr3-kmajd/static/media/hp29.958916bd.jpg",
+    "static/media/hp4.8c1c7d57.jpg": "/185-pr3-kmajd/static/media/hp4.8c1c7d57.jpg",
+    "static/media/hp5.d67ce413.jpg": "/185-pr3-kmajd/static/media/hp5.d67ce413.jpg",
+    "static/media/hp6.404aeabe.jpg": "/185-pr3-kmajd/static/media/hp6.404aeabe.jpg",
+    "static/media/hp7.6d7026e3.jpg": "/185-pr3-kmajd/static/media/hp7.6d7026e3.jpg",
+    "static/media/hp8.77debc00.jpg": "/185-pr3-kmajd/static/media/hp8.77debc00.jpg",
+    "static/media/logo.6ce24c58.svg": "/185-pr3-kmajd/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631e0c55.js",
+    "static/js/2.59c2ca7b.chunk.js",
+    "static/css/main.5386f3ca.chunk.css",
+    "static/js/main.84391a47.chunk.js"
+  ]
+}
