@@ -1,0 +1,59 @@
+@media screen and (max-width: 800px) {
+    .col {
+      flex: 50%;
+      max-width: 40%;
+    }
+  }
+  
+@media screen and (max-width: 600px) {
+    .col {
+      flex: 100%;
+      max-width: 90%;
+    }
+  }
+
+iframe{
+    margin-top: 30px;
+    width: 100%;
+    vertical-align: middle;
+    z-index: 15;
+    pointer-events: auto;
+}
+
+.vid{
+    position:relative;
+}
+
+.transparent{
+    position:absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    z-index: 99;
+}
+.v-overlay {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity .2s ease-out;
+    width :80vw;
+    height: 80%;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 100;
+    pointer-events: none;
+    max-width: 90vw;
+}
+
+.v-overlay iframe{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    max-width: 80vw;
+    vertical-align: middle;
+    z-index: 1;
+    pointer-events: none;
+}

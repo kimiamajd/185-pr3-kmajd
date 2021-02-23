@@ -1,0 +1,49 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+
+.col{
+    flex: 25%;
+    max-width: 23%;
+}
+.col img {
+    margin-top: 30px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 800px) {
+    .col {
+      flex: 50%;
+      max-width: 40%;
+    }
+  }
+  
+@media screen and (max-width: 600px) {
+    .col {
+      flex: 100%;
+      max-width: 90%;
+    }
+  }
+
+  .overlay {
+    position: fixed;
+    pointer-events: none;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity .2s ease-out;
+    width :50vw;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .overlay img{
+    width: 100%;
+    vertical-align: middle;
+}

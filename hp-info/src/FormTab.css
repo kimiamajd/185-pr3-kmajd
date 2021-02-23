@@ -1,0 +1,17 @@
+.err{
+    display: none;
+}
+
+.no_err{
+    display:none;
+}
+
+form {
+    text-align: left;
+    display: inline-block;
+}
+
+.formBox {
+    display: block;
+    text-align: center;
+}

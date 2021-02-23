@@ -1,0 +1,25 @@
+.TabList {
+    background-color:#BCBD8B;
+    justify-content:left;
+}
+.TabList button{
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: calc(100% + 0.5vw);
+    text-decoration: none;
+    font: sans-serif;
+    color: black;
+    font-family: verdana;
+    background-color:#BCBD8B;
+    justify-content: left;
+}
+
+.TabList button:hover {
+    background-color: #717744 !important;
+    color: black !important;
+  }
+
+.TabList button.active{
+    background-color: #373D20 !important;
+    color: #eff1ed !important;
+}
